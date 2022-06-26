@@ -8,6 +8,9 @@ public class GitTest2 {
 	
 	public void printMe() {
 		System.out.println("git test 1");
+		System.out.println("git test 2");
+		System.out.println("git test 11323");
+		System.out.println("git test 1231");
 	}
 
 
